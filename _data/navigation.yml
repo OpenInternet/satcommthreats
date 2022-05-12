@@ -5,8 +5,8 @@ main:
     url: /ua/
   - title: "MM"
     url: /mm/
-#  - title: "ES"
-#    url: /es/
+ - title: "ES"
+   url: /es/
 #  - title: "About"
 #    url: /about/
   - title: "Credits"
